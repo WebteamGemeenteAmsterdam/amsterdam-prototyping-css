@@ -1,3 +1,6 @@
+#Header {
+  display: none; }
+
 .screen-logo {
   filter: grayscale(50%); }
 

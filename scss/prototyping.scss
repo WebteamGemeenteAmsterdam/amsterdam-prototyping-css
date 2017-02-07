@@ -25,6 +25,10 @@ $browser-context: 16; // Default
  font-weight: normal;
 }
 
+#Header {
+  display: none;
+}
+
 .screen-logo {
   filter: grayscale(50%);
 }
