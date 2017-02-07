@@ -48,7 +48,12 @@ h6 {
   font-size: em(32) !important;
 }
 
-.iprox-content {
+.contents_container h2,
+.contents_container .blok-titel {
+  font-size: em(18) !important;
+}
+
+.iprox-rich-content {
   @include avenirmedium;
   font-size: em(18);
 }
