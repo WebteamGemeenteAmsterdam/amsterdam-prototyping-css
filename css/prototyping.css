@@ -19,8 +19,10 @@ h6 {
   font-weight: normal; }
 
 @media screen and (min-width: 768px) {
-  font-size: 18/16em; }
+  .iprox-content {
+    font-size: 18/16em; } }
 @media screen and (max-width: 767px) {
-  font-size: 16/16em; }
+  .iprox-content {
+    font-size: 16/16em; } }
 
 /*# sourceMappingURL=prototyping.css.map */

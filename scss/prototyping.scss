@@ -42,9 +42,13 @@ h6 {
 }
 
 @media screen and (min-width: 768px) {
-  font-size: #{18 / 16}em;
+  .iprox-content {
+    font-size: #{18 / 16}em;
+  }
 }
 
 @media screen and (max-width: 767px) {
-  font-size: #{16 / 16}em;
+  .iprox-content {
+    font-size: #{16 / 16}em;
+  }
 }
