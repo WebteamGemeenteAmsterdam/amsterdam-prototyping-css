@@ -25,9 +25,9 @@ $browser-context: 16; // Default
  font-weight: normal;
 }
 
-// #Header {
-//   display: none !important;
-// }
+#Header {
+  display: none !important;
+}
 
 .screen-logo {
   filter: grayscale(50%);
@@ -69,6 +69,10 @@ h6 {
   @include avenirmedium;
   color: $tekstgrijs;
   font-size: em(18);
+}
+
+.inleiding {
+  @include avenirheavy;
 }
 
 ul.links li,
