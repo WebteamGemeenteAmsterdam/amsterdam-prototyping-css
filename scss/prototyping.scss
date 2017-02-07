@@ -35,7 +35,6 @@ $browser-context: 16; // Default
 
 body {
   @include avenirmedium;
-  font-size: em(16);
 }
 
 h1,
@@ -46,6 +45,11 @@ h5,
 h6 {
   @include avenirheavy;
 }
+
+.kruimelzoeken_container .sitepad ul li {
+  font-size: em(16);
+}
+
 
 .contents_container h1,
 .contents_container .supernav-titel {
@@ -66,7 +70,7 @@ h6 {
 ul.links li,
 ul.links li a {
   @include avenirmedium;
-  color: $tekstzwart;
+  color: $tekstzwart !important;
   font-size: em(16);
 }
 

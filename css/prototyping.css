@@ -6,8 +6,7 @@
 
 body {
   font-family: "Avenir LT Std 65 Medium", arial, sans-serif;
-  font-weight: normal;
-  font-size: 1em; }
+  font-weight: normal; }
 
 h1,
 h2,
@@ -17,6 +16,9 @@ h5,
 h6 {
   font-family: "Avenir LT W01 85 Heavy", arial, sans-serif;
   font-weight: normal; }
+
+.kruimelzoeken_container .sitepad ul li {
+  font-size: 1em; }
 
 .contents_container h1,
 .contents_container .supernav-titel {
@@ -36,7 +38,7 @@ ul.links li,
 ul.links li a {
   font-family: "Avenir LT Std 65 Medium", arial, sans-serif;
   font-weight: normal;
-  color: #000000;
+  color: #000000 !important;
   font-size: 1em; }
 
 @media screen and (min-width: 768px) {
