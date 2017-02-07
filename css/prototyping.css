@@ -1,6 +1,9 @@
 .screen-logo {
   filter: grayscale(50%); }
 
+body {
+  font-size: 1em; }
+
 h1,
 h2,
 h3,

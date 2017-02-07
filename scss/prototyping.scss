@@ -29,6 +29,10 @@ $browser-context: 16; // Default
   filter: grayscale(50%);
 }
 
+body {
+  font-size: em(16);
+}
+
 h1,
 h2,
 h3,
