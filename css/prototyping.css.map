@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAmBA;;;;;EAKG;EAdF,WAAW,EATE,2CAAwB;EAUrC,WAAW,EAAE,MAAM;;AAiBpB;mCACoC;EACnC,SAAS,EAAE,cAAc",
+"mappings": "AAmBA,YAAa;EACX,OAAO,EAAE,GAAG;;AAGd;;;;;EAKG;EAlBF,WAAW,EATE,2CAAwB;EAUrC,WAAW,EAAE,MAAM;;AAqBpB;mCACoC;EACnC,SAAS,EAAE,cAAc",
 "sources": ["../scss/prototyping.scss"],
 "names": [],
 "file": "prototyping.css"
