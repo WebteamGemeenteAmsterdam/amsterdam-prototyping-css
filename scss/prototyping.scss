@@ -26,7 +26,7 @@ $browser-context: 16; // Default
 }
 
 #Header {
-  display: none;
+  display: none !important;
 }
 
 .screen-logo {
@@ -59,7 +59,15 @@ h6 {
 
 .iprox-rich-content {
   @include avenirmedium;
+  color: $tekstgrijs;
   font-size: em(18);
+}
+
+ul.links li,
+ul.links li a {
+  @include avenirmedium;
+  color: $tekstzwart;
+  font-size: em(16);
 }
 
 @media screen and (min-width: 768px) {
