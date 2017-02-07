@@ -23,6 +23,8 @@ h6 {
   font-weight: normal; }
 
 .kruimelzoeken_container .sitepad ul li {
+  font-family: "Avenir LT W01 65 Medium", serif;
+  font-weight: normal;
   font-size: 1em; }
 
 .contents_container h1,
@@ -57,7 +59,10 @@ ul.links li a {
   .iprox-content {
     font-size: 1.125em; } }
 @media screen and (max-width: 767px) {
-  .iprox-content {
+  .iprox-content,
+  .inleiding,
+  .contents_container h2,
+  .contents_container .blok-titel {
     font-size: 1em; } }
 
 /*# sourceMappingURL=prototyping.css.map */

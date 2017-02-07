@@ -52,6 +52,7 @@ h6 {
 }
 
 .kruimelzoeken_container .sitepad ul li {
+  @include avenirmedium;
   font-size: em(16);
 }
 
@@ -96,7 +97,10 @@ ul.links li a {
 }
 
 @media screen and (max-width: 767px) {
-  .iprox-content {
+  .iprox-content,
+  .inleiding,
+  .contents_container h2,
+  .contents_container .blok-titel {
     font-size: em(16);
   }
 }
