@@ -4,8 +4,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-style: italic;
-  color: pink; }
+  font-family: "Avenir LT W01 85 Heavy", arial, sans-serif;
+  font-weight: normal; }
 
 .contents_container h1,
 .contents_container .supernav-titel {

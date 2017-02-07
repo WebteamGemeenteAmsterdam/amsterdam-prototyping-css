@@ -1,14 +1,32 @@
+$rood: #ec0000;
+$avenirheavy: "Avenir LT W01 85 Heavy", arial, sans-serif;
+$avenirmedium: "Avenir LT Std 65 Medium", arial, sans-serif;
+
+@mixin standard-font {
+ font-family: verdana, sans-serif;
+ font-size: #{(11 / 16)}em;
+}
+
+@mixin avenirheavy {
+ font-family: $avenirheavy;
+ font-weight: normal;
+}
+
+@mixin avenirmedium {
+ font-family: $avenirmedium;
+ font-weight: normal;
+}
+
 h1,
 h2,
 h3,
 h4,
 h5,
 h6 {
-  font-style: italic;
-  color:pink;
+ @include avenirheavy;
 }
 
 .contents_container h1,
 .contents_container .supernav-titel {
-  font-size: 4em !important;
+ font-size: 4em !important;
 }
