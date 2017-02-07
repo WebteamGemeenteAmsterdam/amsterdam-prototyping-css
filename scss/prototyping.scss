@@ -70,11 +70,13 @@ h6 {
   @include avenirmedium;
   color: $tekstgrijs;
   font-size: em(18);
+
+  &.inleiding {
+    @include avenirheavy;
+    font-weight: normal;
+  }
 }
 
-.inleiding {
-  @include avenirheavy;
-}
 
 ul.links li,
 ul.links li a {
