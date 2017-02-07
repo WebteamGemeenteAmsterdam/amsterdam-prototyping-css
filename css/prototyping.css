@@ -39,8 +39,11 @@ ul.links li,
 ul.links li a {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal;
-  color: #000000 !important;
   font-size: 1em; }
+
+.bgcolor_none ul.links li,
+.bgcolor_none ul.links li a {
+  color: #000000 !important; }
 
 @media screen and (min-width: 768px) {
   .iprox-content {
