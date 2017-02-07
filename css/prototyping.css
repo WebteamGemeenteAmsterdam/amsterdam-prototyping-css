@@ -5,7 +5,7 @@
   filter: grayscale(50%); }
 
 body {
-  font-family: "Avenir LT Std 65 Medium", arial, sans-serif;
+  font-family: "Avenir LT Std 65 Medium", serif;
   font-weight: normal;
   font-size: 16px !important; }
 
@@ -15,7 +15,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Avenir LT W01 85 Heavy", arial, sans-serif;
+  font-family: "Avenir LT W01 85 Heavy", serif;
   font-weight: normal; }
 
 .kruimelzoeken_container .sitepad ul li {
@@ -30,14 +30,14 @@ h6 {
   font-size: 1.125em !important; }
 
 .iprox-rich-content {
-  font-family: "Avenir LT Std 65 Medium", arial, sans-serif;
+  font-family: "Avenir LT Std 65 Medium", serif;
   font-weight: normal;
   color: #434343;
   font-size: 1.125em; }
 
 ul.links li,
 ul.links li a {
-  font-family: "Avenir LT Std 65 Medium", arial, sans-serif;
+  font-family: "Avenir LT Std 65 Medium", serif;
   font-weight: normal;
   color: #000000 !important;
   font-size: 1em; }
