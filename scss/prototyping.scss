@@ -122,6 +122,16 @@ h6 {
   .Calltoaction-blauw,
   .Calltoaction-groen,
   .Calltoaction-rood {
+    a {
+      font-size: em(16) !important;
+      height: 44px !important;
+      line-height: 24px !important;
+    }
+  }
+
+  a.Calltoaction-blauw,
+  a.Calltoaction-groen,
+  a.Calltoaction-rood {
     font-size: em(16) !important;
     height: 44px !important;
     line-height: 24px !important;
