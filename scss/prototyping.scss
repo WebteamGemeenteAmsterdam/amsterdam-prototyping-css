@@ -29,6 +29,11 @@ $browser-context: 16; // Default
 //   display: none !important;
 // }
 
+#Bar .sitepad {
+    visibility: hidden;
+    display: none;
+}
+
 .screen-logo {
   filter: grayscale(50%);
 }
@@ -90,7 +95,9 @@ h6 {
     font-size: em(20) !important;
   }
 
-  .cta {
+  .Calltoaction-blauw,
+  .Calltoaction-groen,
+  .Calltoaction-rood {
     font-size: 16px;
   }
 
