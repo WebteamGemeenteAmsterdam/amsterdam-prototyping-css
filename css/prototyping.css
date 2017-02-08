@@ -59,7 +59,7 @@ h6 {
     font-size: 1.5em !important; }
   .iprox-rich-content h3 {
     font-size: 1.25em !important;
-    margin: 25px 0 5px 0; }
+    margin: 25px 0 5px 0 !important; }
   .iprox-rich-content .Calltoaction-blauw,
   .iprox-rich-content .Calltoaction-groen,
   .iprox-rich-content .Calltoaction-rood {
@@ -83,5 +83,8 @@ ul.links li a {
   .contents_container h2,
   .contents_container .blok-titel {
     font-size: 1em; } }
+.social_container {
+  font-family: "Avenir LT W01 65 Medium", serif;
+  font-weight: normal; }
 
 /*# sourceMappingURL=prototyping.css.map */

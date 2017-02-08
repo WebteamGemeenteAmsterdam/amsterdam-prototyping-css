@@ -112,7 +112,7 @@ h6 {
 
   h3 {
     font-size: em(20) !important;
-    margin: 25px 0 5px 0;
+    margin: 25px 0 5px 0 !important;
   }
 
   .Calltoaction-blauw,
@@ -122,7 +122,6 @@ h6 {
   }
 
 }
-
 
 ul.links li,
 ul.links li a {
@@ -150,4 +149,8 @@ ul.links li a {
   .contents_container .blok-titel {
     font-size: em(16);
   }
+}
+
+.social_container {
+  @include avenirmedium;
 }
