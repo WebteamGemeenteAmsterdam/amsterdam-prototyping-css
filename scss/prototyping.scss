@@ -1,5 +1,6 @@
 $tekstgrijs: #434343;
 $tekstzwart: #000000;
+$metagrijs: #737373;
 $rood: #ec0000;
 $avenirheavy: "Avenir LT W01 85 Heavy", serif;
 $avenirmedium: "Avenir LT W01 65 Medium", serif;
@@ -77,6 +78,16 @@ h6 {
   .holder {
     h2 {
       font-size: em(20) !important;
+    }
+  }
+}
+
+.grid-koppeling {
+  ul.links {
+    li {
+      a {
+        font-size: em(20) !important;
+      }
     }
   }
 }

@@ -41,6 +41,9 @@ h6 {
 .grid-grote-knop .holder h2 {
   font-size: 1.25em !important; }
 
+.grid-koppeling ul.links li a {
+  font-size: 1.25em !important; }
+
 .iprox-rich-content {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal;
