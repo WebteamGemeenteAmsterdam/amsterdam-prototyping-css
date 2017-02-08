@@ -47,7 +47,7 @@ h6 {
 .grid-koppeling ul.links li a {
   font-size: 1.25em !important; }
 
-.grid-lijst ul.links li a {
+.grid-lijst ul.links li {
   margin-bottom: 13px;
   line-height: 1.375em; }
 
