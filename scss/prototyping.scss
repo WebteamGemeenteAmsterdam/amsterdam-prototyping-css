@@ -96,7 +96,8 @@ h6 {
 .grid-koppeling {
   ul.links {
     li {
-      a {
+      a:first-child {
+        @include avenirheavy;
         font-size: em(20) !important;
       }
     }
