@@ -33,6 +33,10 @@ h6 {
 .contents_container .blok-titel {
   font-size: 1.125em !important; }
 
+.contents_container h2,
+.contents_container .blok-titel {
+  font-size: 1.125em !important; }
+
 .iprox-rich-content {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal;
@@ -44,6 +48,10 @@ h6 {
     font-weight: normal; }
   .iprox-rich-content.tekst {
     color: #434343; }
+  .iprox-rich-content h3 {
+    font-size: 1.25em !important; }
+  .iprox-rich-content .cta {
+    font-size: 16px; }
 
 ul.links li,
 ul.links li a {
