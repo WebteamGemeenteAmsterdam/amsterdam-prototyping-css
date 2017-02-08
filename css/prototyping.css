@@ -103,7 +103,7 @@ h6 {
     font-size: 1em !important; }
   .iprox-rich-content ul li {
     margin-bottom: 13px;
-    line-height: 1.375em; }
+    line-height: 1.25em; }
 
 ul.links li,
 ul.links li a {
@@ -154,7 +154,7 @@ ul.links li a {
   .grid-superlink .holder .tekst,
   .grid-grote-knop .holder .tekst {
     font-size: 1em !important;
-    line-height: 1.375em; } }
+    line-height: 1.25em; } }
 .social_container {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal; }
