@@ -113,6 +113,11 @@ h6 {
   font-size: em(18) !important;
 }
 
+.contents_container .resultaten .resultaat img {
+  width: 220px !important;
+  height: auto !important;
+}
+
 .iprox-rich-content {
   @include avenirmedium;
   color: $tekstgrijs;
