@@ -118,6 +118,11 @@ h6 {
   height: auto !important;
 }
 
+.contents_container .resultaten .resultaat holder {
+  margin-left: 235px !important;
+  width: calc(100% - 235px) !important;
+}
+
 .iprox-rich-content {
   @include avenirmedium;
   color: $tekstgrijs;

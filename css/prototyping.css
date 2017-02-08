@@ -60,6 +60,10 @@ h6 {
   width: 220px !important;
   height: auto !important; }
 
+.contents_container .resultaten .resultaat holder {
+  margin-left: 235px !important;
+  width: calc(100% - 235px) !important; }
+
 .iprox-rich-content {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal;
