@@ -81,7 +81,8 @@ h6 {
 .grid-grote-knop {
   .holder {
     h2 {
-      font-size: em(20) !important;
+      font-size: em(18) !important;
+      line-height: #{(20 / 16)}em;
       margin-bottom: 8px;
     }
     .tekst {
