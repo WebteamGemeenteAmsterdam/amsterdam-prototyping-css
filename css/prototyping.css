@@ -130,7 +130,8 @@ ul.links li a {
     float: none !important;
     width: 100%; }
     .contents_container .resultaten .resultaat .holder .summary {
-      font-size: 1em; } }
+      font-size: 1em;
+      background-color: pink; } }
 .social_container {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal; }
