@@ -37,6 +37,9 @@ h6 {
 .contents_container .blok-titel {
   font-size: 1.5em !important; }
 
+.grid-grote-knop .holder h2 {
+  font-size: 1.25em !important; }
+
 .iprox-rich-content {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal;
@@ -60,8 +63,7 @@ h6 {
 ul.links li,
 ul.links li a {
   font-family: "Avenir LT W01 65 Medium", serif;
-  font-weight: normal;
-  font-size: 1em; }
+  font-weight: normal; }
 
 .bgcolor_none ul.links li,
 .bgcolor_none ul.links li a {

@@ -72,6 +72,14 @@ h6 {
   font-size: em(24) !important;
 }
 
+.grid-grote-knop {
+  .holder {
+    h2 {
+      font-size: em(20) !important;
+    }
+  }
+}
+
 .iprox-rich-content {
   @include avenirmedium;
   color: $tekstgrijs;
@@ -106,8 +114,7 @@ h6 {
 ul.links li,
 ul.links li a {
   @include avenirmedium;
-  font-size: em(16);
-
+  // font-size: em(16);
 }
 
 .bgcolor_none {
