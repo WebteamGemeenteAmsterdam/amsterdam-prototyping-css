@@ -207,14 +207,15 @@ ul.links li a {
   }
 
   .contents_container .resultaten .resultaat img {
-    width: 150px !important;
+    width: 100% !important;
+    max-width: 220px;
     height: auto !important;
-    float: left;
+    float: none;
   }
 
   .contents_container .resultaten .resultaat .holder {
-    float: left;
-    width: calc(100% - 185px) !important;
+    float: none;
+    width: 100%;
     .summary {
       font-size: em(16);
     }
