@@ -63,7 +63,9 @@ h6 {
   .iprox-rich-content .Calltoaction-blauw,
   .iprox-rich-content .Calltoaction-groen,
   .iprox-rich-content .Calltoaction-rood {
-    font-size: 1em; }
+    font-size: 1em !important;
+    height: 44px !important;
+    line-height: 24px !important; }
 
 ul.links li,
 ul.links li a {
