@@ -58,7 +58,8 @@ h6 {
   .iprox-rich-content h2 {
     font-size: 1.5em !important; }
   .iprox-rich-content h3 {
-    font-size: 1.25em !important; }
+    font-size: 1.25em !important;
+    margin: 25px 0 5px 0; }
   .iprox-rich-content .Calltoaction-blauw,
   .iprox-rich-content .Calltoaction-groen,
   .iprox-rich-content .Calltoaction-rood {
