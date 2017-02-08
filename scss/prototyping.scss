@@ -91,14 +91,18 @@ h6 {
     color: $tekstgrijs;
   }
 
-  h3 {
+  h2 {
     font-size: em(20) !important;
+  }
+
+  h3 {
+    font-size: em(18) !important;
   }
 
   .Calltoaction-blauw,
   .Calltoaction-groen,
   .Calltoaction-rood {
-    font-size: 16px;
+    font-size: em(16);
   }
 
 }
