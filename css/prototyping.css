@@ -55,6 +55,8 @@ h6 {
   font-family: "Avenir LT W01 85 Heavy", serif;
   font-weight: normal;
   font-size: 1.25em !important; }
+.grid-koppeling.grid_3 .holder .summary {
+  margin-left: 15px; }
 
 .grid-lijst ul.links li {
   margin-bottom: 13px;
