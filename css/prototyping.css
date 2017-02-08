@@ -45,7 +45,7 @@ h6 {
   .iprox-rich-content.inleiding {
     font-family: "Avenir LT W01 85 Heavy", serif;
     font-weight: normal;
-    font-weight: normal; }
+    font-weight: normal !important; }
   .iprox-rich-content.tekst {
     color: #434343; }
   .iprox-rich-content h2 {
