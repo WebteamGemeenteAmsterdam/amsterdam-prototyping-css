@@ -82,6 +82,7 @@ h6 {
   .holder {
     h2 {
       font-size: em(20) !important;
+      margin-bottom: 8px;
     }
     .tekst {
       font-size: em(16) !important;
@@ -237,6 +238,20 @@ ul.links li a {
     .summary {
       font-size: em(16);
       margin-left: 15px;
+    }
+  }
+
+  .grid-superlink,
+  .grid-grote-knop {
+    .holder {
+      h2 {
+        font-size: em(18) !important;
+        margin-bottom: 8px;
+      }
+      .tekst {
+        font-size: em(16) !important;
+        line-height: #{(22 / 16)}em;
+      }
     }
   }
 }
