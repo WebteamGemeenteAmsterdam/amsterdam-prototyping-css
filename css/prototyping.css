@@ -98,6 +98,8 @@ h6 {
   .iprox-rich-content .grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .title,
   .iprox-rich-content .grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .titlewithlink {
     font-size: 1.25em !important; }
+  .iprox-rich-content .grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .text {
+    font-size: 1em !important; }
   .iprox-rich-content .Calltoaction-blauw a,
   .iprox-rich-content .Calltoaction-groen a,
   .iprox-rich-content .Calltoaction-rood a {
