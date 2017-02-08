@@ -110,7 +110,16 @@ ul.links li a {
   .inleiding,
   .contents_container h2,
   .contents_container .blok-titel {
-    font-size: 1em; } }
+    font-size: 1em; }
+
+  .contents_container .resultaten .resultaat img {
+    width: 70px !important;
+    height: auto !important;
+    float: left; }
+
+  .contents_container .resultaten .resultaat .holder {
+    float: left;
+    width: calc(100% - 120px) !important; } }
 .social_container {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal; }
