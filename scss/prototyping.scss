@@ -214,9 +214,9 @@ ul.links li a {
   }
 
   .contents_container .resultaten .resultaat .holder {
-    clear: both;
+    clear: both !important;
     float: none !important;
-    width: 100%;
+    width: 100% !important;
     .summary {
       font-size: em(16);
       background-color: pink;
