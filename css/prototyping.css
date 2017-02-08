@@ -5,6 +5,9 @@
 .screen-logo {
   filter: grayscale(50%); }
 
+.subtitle {
+  font-weight: normal; }
+
 body {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal;

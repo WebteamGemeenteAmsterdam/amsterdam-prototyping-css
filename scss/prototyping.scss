@@ -39,6 +39,10 @@ $browser-context: 16; // Default
   filter: grayscale(50%);
 }
 
+.subtitle {
+  font-weight: normal;
+}
+
 body {
   @include avenirmedium;
   font-size: 16px !important;
