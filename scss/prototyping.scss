@@ -122,6 +122,9 @@ h6 {
 .contents_container .resultaten .resultaat .holder {
   float: left;
   width: calc(100% - 260px) !important;
+  .summary {
+    font-size: em(16);
+  }
 }
 
 .iprox-rich-content {
@@ -206,6 +209,9 @@ ul.links li a {
   .contents_container .resultaten .resultaat .holder {
     float: left;
     width: calc(100% - 120px) !important;
+    .summary {
+      font-size: em(14);
+    }
   }
 
 }
