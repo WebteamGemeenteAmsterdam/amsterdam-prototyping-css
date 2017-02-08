@@ -123,10 +123,11 @@ ul.links li a {
     width: 100% !important;
     max-width: 220px;
     height: auto !important;
-    float: none; }
+    float: none !important; }
 
   .contents_container .resultaten .resultaat .holder {
-    float: none;
+    clear: left;
+    float: none !important;
     width: 100%; }
     .contents_container .resultaten .resultaat .holder .summary {
       font-size: 1em; } }
