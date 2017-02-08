@@ -61,7 +61,7 @@ h6 {
   height: auto !important;
   float: left; }
 
-.contents_container .resultaten .resultaat holder {
+.contents_container .resultaten .resultaat .holder {
   float: left;
   width: calc(100% - 235px) !important; }
 
