@@ -69,7 +69,7 @@ h6 {
   float: left;
   width: calc(100% - 260px) !important; }
   .contents_container .resultaten .resultaat .holder .summary {
-    font-size: 1em;
+    font-size: 1.125em;
     color: #434343; }
 
 .iprox-rich-content {
@@ -128,7 +128,7 @@ ul.links li a {
     float: left;
     width: calc(100% - 120px) !important; }
     .contents_container .resultaten .resultaat .holder .summary {
-      font-size: 0.875em; } }
+      font-size: 1em; } }
 .social_container {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal; }
