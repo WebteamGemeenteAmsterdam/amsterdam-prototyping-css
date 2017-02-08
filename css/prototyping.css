@@ -1,3 +1,7 @@
+#Bar .sitepad {
+  visibility: hidden;
+  display: none; }
+
 .screen-logo {
   filter: grayscale(50%); }
 
@@ -31,11 +35,7 @@ h6 {
 
 .contents_container h2,
 .contents_container .blok-titel {
-  font-size: 1.125em !important; }
-
-.contents_container h2,
-.contents_container .blok-titel {
-  font-size: 1.125em !important; }
+  font-size: 1.5em !important; }
 
 .iprox-rich-content {
   font-family: "Avenir LT W01 65 Medium", serif;
@@ -48,10 +48,14 @@ h6 {
     font-weight: normal; }
   .iprox-rich-content.tekst {
     color: #434343; }
-  .iprox-rich-content h3 {
+  .iprox-rich-content h2 {
     font-size: 1.25em !important; }
-  .iprox-rich-content .cta {
-    font-size: 16px; }
+  .iprox-rich-content h3 {
+    font-size: 1.125em !important; }
+  .iprox-rich-content .Calltoaction-blauw,
+  .iprox-rich-content .Calltoaction-groen,
+  .iprox-rich-content .Calltoaction-rood {
+    font-size: 1em; }
 
 ul.links li,
 ul.links li a {
