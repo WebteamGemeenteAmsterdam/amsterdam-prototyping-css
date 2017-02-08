@@ -1,3 +1,6 @@
+.page_container {
+  width: 1400px; }
+
 #Bar .sitepad {
   visibility: hidden;
   display: none; }
@@ -43,12 +46,12 @@ h6 {
 .grid-superlink .holder h2,
 .grid-grote-knop .holder h2 {
   font-size: 1.125em !important;
-  line-height: 1.25em;
+  line-height: 1.375rem;
   margin-bottom: 8px; }
 .grid-superlink .holder .tekst,
 .grid-grote-knop .holder .tekst {
   font-size: 1em !important;
-  line-height: 1.25em; }
+  line-height: 1.25rem; }
 
 .grid-koppeling ul.links li a {
   font-size: 1.25em !important; }
@@ -156,7 +159,7 @@ ul.links li a {
   .grid-superlink .holder .tekst,
   .grid-grote-knop .holder .tekst {
     font-size: 1em !important;
-    line-height: 1.375em; } }
+    line-height: 1.25em; } }
 .social_container {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal; }

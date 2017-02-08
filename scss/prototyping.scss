@@ -30,6 +30,10 @@ $browser-context: 16; // Default
 //   display: none !important;
 // }
 
+.page_container {
+  width: 1400px;
+}
+
 #Bar .sitepad {
     visibility: hidden;
     display: none;
@@ -82,12 +86,12 @@ h6 {
   .holder {
     h2 {
       font-size: em(18) !important;
-      line-height: #{(20 / 16)}em;
+      line-height: #{(22 / 16)}rem;
       margin-bottom: 8px;
     }
     .tekst {
       font-size: em(16) !important;
-      line-height: #{(20 / 16)}em;
+      line-height: #{(20 / 16)}rem;
     }
   }
 }
@@ -252,7 +256,7 @@ ul.links li a {
       }
       .tekst {
         font-size: em(16) !important;
-        line-height: #{(22 / 16)}em;
+        line-height: #{(20 / 16)}em;
       }
     }
   }
