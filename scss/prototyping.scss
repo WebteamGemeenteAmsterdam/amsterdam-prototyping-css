@@ -201,6 +201,11 @@ ul.links li a {
 }
 
 @media screen and (max-width: 767px) {
+  .contents_container h1,
+  .contents_container .supernav-titel {
+    font-size: em(24) !important;
+  }
+
   .iprox-content,
   .inleiding,
   .contents_container h2,
