@@ -63,9 +63,15 @@ h6 {
   .iprox-rich-content h3 {
     font-size: 1.25em !important;
     margin: 25px 0 5px 0 !important; }
-  .iprox-rich-content .Calltoaction-blauw,
-  .iprox-rich-content .Calltoaction-groen,
-  .iprox-rich-content .Calltoaction-rood {
+  .iprox-rich-content .Calltoaction-blauw a,
+  .iprox-rich-content .Calltoaction-groen a,
+  .iprox-rich-content .Calltoaction-rood a {
+    font-size: 1em !important;
+    height: 44px !important;
+    line-height: 24px !important; }
+  .iprox-rich-content a.Calltoaction-blauw,
+  .iprox-rich-content a.Calltoaction-groen,
+  .iprox-rich-content a.Calltoaction-rood {
     font-size: 1em !important;
     height: 44px !important;
     line-height: 24px !important; }
