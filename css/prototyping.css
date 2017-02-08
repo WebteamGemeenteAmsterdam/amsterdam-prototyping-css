@@ -43,6 +43,10 @@ h6 {
 .grid-superlink .holder h2,
 .grid-grote-knop .holder h2 {
   font-size: 1.25em !important; }
+.grid-superlink .holder .tekst,
+.grid-grote-knop .holder .tekst {
+  font-size: 1.25em !important;
+  line-height: 1.25em; }
 
 .grid-koppeling ul.links li a {
   font-size: 1.25em !important; }

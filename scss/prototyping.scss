@@ -83,6 +83,10 @@ h6 {
     h2 {
       font-size: em(20) !important;
     }
+    .tekst {
+      font-size: em(20) !important;
+      line-height: #{(20 / 16)}em
+    }
   }
 }
 
