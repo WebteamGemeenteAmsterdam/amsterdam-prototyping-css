@@ -116,10 +116,11 @@ h6 {
 .contents_container .resultaten .resultaat img {
   width: 220px !important;
   height: auto !important;
+  float: left;
 }
 
 .contents_container .resultaten .resultaat holder {
-  margin-left: 235px !important;
+  float: left;
   width: calc(100% - 235px) !important;
 }
 
