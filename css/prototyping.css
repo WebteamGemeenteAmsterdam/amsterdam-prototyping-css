@@ -151,11 +151,12 @@ ul.links li a {
   .grid-superlink .holder h2,
   .grid-grote-knop .holder h2 {
     font-size: 1em !important;
+    line-height: 1.25em;
     margin-bottom: 8px; }
   .grid-superlink .holder .tekst,
   .grid-grote-knop .holder .tekst {
     font-size: 1em !important;
-    line-height: 1.25em; } }
+    line-height: 1.375em; } }
 .social_container {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal; }

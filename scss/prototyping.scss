@@ -247,11 +247,12 @@ ul.links li a {
     .holder {
       h2 {
         font-size: em(16) !important;
+        line-height: #{(20 / 16)}em;
         margin-bottom: 8px;
       }
       .tekst {
         font-size: em(16) !important;
-        line-height: #{(20 / 16)}em;
+        line-height: #{(22 / 16)}em;
       }
     }
   }
