@@ -126,7 +126,7 @@ ul.links li a {
     float: none !important; }
 
   .contents_container .resultaten .resultaat .holder {
-    clear: left;
+    clear: both;
     float: none !important;
     width: 100%; }
     .contents_container .resultaten .resultaat .holder .summary {
