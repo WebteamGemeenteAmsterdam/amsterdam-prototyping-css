@@ -120,13 +120,13 @@ ul.links li a {
     font-size: 1em; }
 
   .contents_container .resultaten .resultaat img {
-    width: 70px !important;
+    width: 150px !important;
     height: auto !important;
     float: left; }
 
   .contents_container .resultaten .resultaat .holder {
     float: left;
-    width: calc(100% - 120px) !important; }
+    width: calc(100% - 185px) !important; }
     .contents_container .resultaten .resultaat .holder .summary {
       font-size: 1em; } }
 .social_container {
