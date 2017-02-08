@@ -1,6 +1,3 @@
-#Header {
-  display: none !important; }
-
 .screen-logo {
   filter: grayscale(50%); }
 
@@ -45,6 +42,8 @@ h6 {
     font-family: "Avenir LT W01 85 Heavy", serif;
     font-weight: normal;
     font-weight: normal; }
+  .iprox-rich-content.tekst {
+    color: #434343; }
 
 ul.links li,
 ul.links li a {
