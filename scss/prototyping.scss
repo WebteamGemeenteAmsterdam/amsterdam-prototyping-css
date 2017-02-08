@@ -107,10 +107,15 @@ h6 {
   }
 }
 
+.contents_container .resultaten .resultaat {
+  margin-bottom: 20px;
+}
+
 .contents_container .resultaten .resultaat h2,
 .contents_container .resultaten .resultaat h3,
 .contents_container .resultaten .resultaat .kop {
   font-size: em(18) !important;
+  margin-bottom: 8px;
 }
 
 .contents_container .resultaten .resultaat img {
@@ -124,6 +129,7 @@ h6 {
   width: calc(100% - 260px) !important;
   .summary {
     font-size: em(16);
+    color: $tekstgrijs;
   }
 }
 
