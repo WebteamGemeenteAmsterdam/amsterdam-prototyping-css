@@ -51,6 +51,11 @@ h6 {
   margin-bottom: 13px;
   line-height: 1.375em; }
 
+.contents_container .resultaten .resultaat h2,
+.contents_container .resultaten .resultaat h3,
+.contents_container .resultaten .resultaat .kop {
+  font-size: 1.125em !important; }
+
 .iprox-rich-content {
   font-family: "Avenir LT W01 65 Medium", serif;
   font-weight: normal;

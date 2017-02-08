@@ -107,6 +107,12 @@ h6 {
   }
 }
 
+.contents_container .resultaten .resultaat h2,
+.contents_container .resultaten .resultaat h3,
+.contents_container .resultaten .resultaat .kop {
+  font-size: em(18) !important;
+}
+
 .iprox-rich-content {
   @include avenirmedium;
   color: $tekstgrijs;
