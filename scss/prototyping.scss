@@ -1,5 +1,5 @@
 $tekstgrijs: #434343;
-$tekstzwart: #000000;
+$tekstzwart: #000;
 $metagrijs: #737373;
 $rood: #ec0000;
 $avenirheavy: "Avenir LT W01 85 Heavy", serif;
@@ -140,9 +140,10 @@ h6 {
 .contents_container .resultaten .resultaat .holder {
   float: left;
   width: calc(100% - 260px) !important;
+
   .summary {
-    font-size: em(18);
     color: $tekstgrijs;
+    font-size: em(18);
   }
 }
 
