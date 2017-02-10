@@ -80,8 +80,15 @@ h6 {
   float: left;
   width: calc(100% - 260px) !important; }
   .contents_container .resultaten .resultaat .holder .summary {
-    font-size: 1.125em;
-    color: #434343; }
+    color: #434343;
+    font-size: 1.125em; }
+
+.grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .title,
+.grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .titlewithlink {
+  font-size: 1.25em !important; }
+
+.grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .text {
+  font-size: 1em !important; }
 
 .iprox-rich-content {
   font-family: "Avenir LT W01 65 Medium", serif;
@@ -98,12 +105,7 @@ h6 {
     font-size: 1.5em !important; }
   .iprox-rich-content h3 {
     font-size: 1.25em !important;
-    margin: 25px 0 5px 0 !important; }
-  .iprox-rich-content .grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .title,
-  .iprox-rich-content .grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .titlewithlink {
-    font-size: 1.25em !important; }
-  .iprox-rich-content .grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .text {
-    font-size: 1em !important; }
+    margin: 25px 0 5px !important; }
   .iprox-rich-content .Calltoaction-blauw a,
   .iprox-rich-content .Calltoaction-groen a,
   .iprox-rich-content .Calltoaction-rood a {
@@ -113,8 +115,8 @@ h6 {
   .iprox-rich-content a.Calltoaction-rood {
     font-size: 1em !important; }
   .iprox-rich-content ul li {
-    margin-bottom: 13px;
-    line-height: 1.25em; }
+    line-height: 1.25em;
+    margin-bottom: 13px; }
 
 ul.links li,
 ul.links li a {
@@ -123,7 +125,7 @@ ul.links li a {
 
 .bgcolor_none ul.links li,
 .bgcolor_none ul.links li a {
-  color: #000000 !important; }
+  color: #000 !important; }
 
 @media screen and (min-width: 768px) {
   .iprox-content {
