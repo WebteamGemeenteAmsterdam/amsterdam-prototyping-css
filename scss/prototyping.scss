@@ -3,7 +3,7 @@ $tekstzwart: #000;
 $metagrijs: #737373;
 $rood: #ec0000;
 $avenirheavy: "Avenir LT W01 85 Heavy", serif;
-$avenirmedium: "Avenir LT W01 65 Medium", serif;
+$avenirmedium: "Avenir LT W01 65 Medium", serif !important;
 
 $browser-context: 16; // Default
 
@@ -283,5 +283,6 @@ ul.links li a {
 }
 
 .social_container {
-  @include avenirmedium;
+  @include avenirmedium; 
+  font-size: em(16) !important;
 }
