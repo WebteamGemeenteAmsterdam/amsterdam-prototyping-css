@@ -176,4 +176,7 @@ ul.links li a {
   font-weight: normal;
   font-size: 1em !important; }
 
+.hassuperlinktxt .tekst {
+  display: none; }
+
 /*# sourceMappingURL=prototyping.css.map */
