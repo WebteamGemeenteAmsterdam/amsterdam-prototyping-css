@@ -286,3 +286,10 @@ ul.links li a {
   @include avenirmedium; 
   font-size: em(16) !important;
 }
+
+.hassuperlinktxt {
+
+	.tekst {
+		display:none;
+	}
+}
