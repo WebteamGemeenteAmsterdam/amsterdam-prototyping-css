@@ -9,7 +9,7 @@
   font-weight: normal; }
 
 body {
-  font-family: "Avenir LT W01 65 Medium", serif;
+  font-family: "Avenir LT W01 65 Medium", serif !important;
   font-weight: normal;
   font-size: 16px !important; }
 
@@ -28,7 +28,7 @@ h6 {
   font-weight: normal; }
 
 .kruimelzoeken_container .sitepad ul li {
-  font-family: "Avenir LT W01 65 Medium", serif;
+  font-family: "Avenir LT W01 65 Medium", serif !important;
   font-weight: normal;
   font-size: 1em; }
 
@@ -91,7 +91,7 @@ h6 {
   font-size: 1em !important; }
 
 .iprox-rich-content {
-  font-family: "Avenir LT W01 65 Medium", serif;
+  font-family: "Avenir LT W01 65 Medium", serif !important;
   font-weight: normal;
   color: #434343;
   font-size: 1.125em; }
@@ -122,7 +122,7 @@ h6 {
 
 ul.links li,
 ul.links li a {
-  font-family: "Avenir LT W01 65 Medium", serif;
+  font-family: "Avenir LT W01 65 Medium", serif !important;
   font-weight: normal; }
 
 .bgcolor_none ul.links li,
@@ -172,7 +172,8 @@ ul.links li a {
     font-size: 1em !important;
     line-height: 1.25em; } }
 .social_container {
-  font-family: "Avenir LT W01 65 Medium", serif;
-  font-weight: normal; }
+  font-family: "Avenir LT W01 65 Medium", serif !important;
+  font-weight: normal;
+  font-size: 1em !important; }
 
 /*# sourceMappingURL=prototyping.css.map */
