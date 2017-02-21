@@ -178,8 +178,8 @@ h6 {
     font-size: em(20) !important;
     margin: 25px 0 5px !important;
 	  .ingeklapt-toggle {
-        font-size: em(18) !important;
-  }    
+        font-size: em(16) !important;
+  }
 
 
   }
@@ -283,7 +283,7 @@ ul.links li a {
 }
 
 .social_container {
-  @include avenirmedium; 
+  @include avenirmedium;
   font-size: em(16) !important;
 }
 
