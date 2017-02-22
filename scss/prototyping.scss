@@ -178,7 +178,8 @@ h6 {
     font-size: em(20) !important;
     margin: 25px 0 5px !important;
 	  .ingeklapt-toggle {
-        font-size: em(10) !important;
+        font-size: 16px !important;
+        line-height: 1 !important;
   }
 
 
@@ -299,8 +300,4 @@ ul.links li a {
 		color: #ffffff;
 	}
 
-}
-
-.ingeklapt {
-  font-size: 24px;
 }
