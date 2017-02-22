@@ -1,0 +1,188 @@
+#Bar .sitepad {
+  visibility: hidden;
+  display: none; }
+
+.screen-logo {
+  filter: grayscale(50%); }
+
+.subtitle {
+  font-weight: normal; }
+
+body {
+  font-family: "Avenir LT W01 65 Medium", serif !important;
+  font-weight: normal;
+  font-size: 16px !important; }
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Avenir LT W01 85 Heavy", serif;
+  font-weight: normal; }
+
+.login_container {
+  font-family: "Avenir LT W01 85 Heavy", serif;
+  font-weight: normal;
+  font-weight: normal; }
+
+.kruimelzoeken_container .sitepad ul li {
+  font-family: "Avenir LT W01 65 Medium", serif !important;
+  font-weight: normal;
+  font-size: 1em; }
+
+.contents_container h1,
+.contents_container .supernav-titel {
+  font-size: 2em !important; }
+
+.contents_container h2,
+.contents_container .blok-titel {
+  font-size: 1.25em !important; }
+
+.grid-superlink .holder h2,
+.grid-grote-knop .holder h2 {
+  font-size: 1.125em !important;
+  line-height: 1.375rem;
+  margin-bottom: 8px;
+  margin-top: 15px; }
+.grid-superlink .holder .tekst,
+.grid-grote-knop .holder .tekst {
+  font-size: 1em !important;
+  line-height: 1.25rem; }
+
+.grid-koppeling ul.links li a:first-child {
+  font-family: "Avenir LT W01 85 Heavy", serif;
+  font-weight: normal;
+  font-size: 1.25em !important; }
+.grid-koppeling.grid_3 .holder .summary {
+  margin-left: 15px; }
+
+.grid-lijst ul.links li {
+  margin-bottom: 13px;
+  line-height: 1.375em; }
+
+.contents_container .resultaten .resultaat {
+  margin-bottom: 20px; }
+
+.contents_container .resultaten .resultaat h2,
+.contents_container .resultaten .resultaat h3,
+.contents_container .resultaten .resultaat .kop {
+  font-size: 1.125em !important;
+  margin-bottom: 8px; }
+
+.contents_container .resultaten .resultaat img {
+  width: 220px !important;
+  height: auto !important;
+  float: left; }
+
+.contents_container .resultaten .resultaat .holder {
+  float: left;
+  width: calc(100% - 260px) !important; }
+  .contents_container .resultaten .resultaat .holder .summary {
+    color: #434343;
+    font-size: 1.125em; }
+
+.grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .title,
+.grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .titlewithlink {
+  font-size: 1.25em !important; }
+
+.grid-blok.grid-rol-slideshowdeluxe .grid-element .slide .textbar .text {
+  font-size: 1em !important; }
+
+.iprox-rich-content {
+  font-family: "Avenir LT W01 65 Medium", serif !important;
+  font-weight: normal;
+  color: #434343;
+  font-size: 1.125em; }
+  .iprox-rich-content.inleiding {
+    font-family: "Avenir LT W01 85 Heavy", serif;
+    font-weight: normal;
+    font-weight: normal !important; }
+  .iprox-rich-content.tekst {
+    color: #434343; }
+  .iprox-rich-content h2 {
+    font-size: 1.5em !important; }
+  .iprox-rich-content h3 {
+    font-size: 1.25em !important;
+    margin: 25px 0 5px !important; }
+    .iprox-rich-content h3 .ingeklapt-toggle {
+      font-size: 0.625em !important; }
+  .iprox-rich-content .Calltoaction-blauw a,
+  .iprox-rich-content .Calltoaction-groen a,
+  .iprox-rich-content .Calltoaction-rood a {
+    font-size: 1em !important; }
+  .iprox-rich-content a.Calltoaction-blauw,
+  .iprox-rich-content a.Calltoaction-groen,
+  .iprox-rich-content a.Calltoaction-rood {
+    font-size: 1em !important; }
+  .iprox-rich-content ul li {
+    line-height: 1.25em;
+    margin-bottom: 13px; }
+
+ul.links li,
+ul.links li a {
+  font-family: "Avenir LT W01 65 Medium", serif !important;
+  font-weight: normal; }
+
+.bgcolor_none ul.links li,
+.bgcolor_none ul.links li a {
+  color: #000 !important; }
+
+@media screen and (min-width: 768px) {
+  .iprox-content {
+    font-size: 1.125em; } }
+@media screen and (max-width: 767px) {
+  .contents_container h1,
+  .contents_container .supernav-titel {
+    font-size: 1.5em !important; }
+
+  .iprox-content,
+  .inleiding,
+  .contents_container h2,
+  .contents_container .blok-titel {
+    font-size: 1em; }
+
+  .iprox-rich-content h2 {
+    font-size: 1.25em !important; }
+  .iprox-rich-content h3 {
+    font-size: 1.125em !important; }
+
+  .contents_container .resultaten .resultaat img {
+    width: 100% !important;
+    max-width: 180px;
+    height: auto !important;
+    float: none !important; }
+
+  .contents_container .resultaten .resultaat .holder {
+    clear: both !important;
+    float: none !important;
+    width: 100% !important; }
+    .contents_container .resultaten .resultaat .holder .summary {
+      font-size: 1em;
+      margin-left: 15px; }
+
+  .grid-superlink .holder h2,
+  .grid-grote-knop .holder h2 {
+    font-size: 1em !important;
+    line-height: 1.25em;
+    margin-bottom: 8px; }
+  .grid-superlink .holder .tekst,
+  .grid-grote-knop .holder .tekst {
+    font-size: 1em !important;
+    line-height: 1.25em; } }
+.social_container {
+  font-family: "Avenir LT W01 65 Medium", serif !important;
+  font-weight: normal;
+  font-size: 1em !important; }
+
+.hassuperlinktxt .tekst {
+  display: none; }
+
+#Footer .iprox-rich-content.tekst {
+  color: #ffffff; }
+
+.ingeklapt {
+  font-size: 24px; }
+
+/*# sourceMappingURL=prototyping.css.map */
