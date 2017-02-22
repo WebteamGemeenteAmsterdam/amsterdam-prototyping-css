@@ -94,7 +94,12 @@ h6 {
   font-family: "Avenir LT W01 65 Medium", serif !important;
   font-weight: normal;
   color: #434343;
-  font-size: 1.125em; }
+  font-size: 1.125em;
+  /*
+  De h3-koppen met class "ingeklapt" moeten font-size 16px krijgen, net als reguliere h3's.
+  Ik krijg dit echter niet gewijzigd, ondanks onderstaande aanpassingen aan de
+  selectors h3 en .ingeklapt-toggle.
+  */ }
   .iprox-rich-content.inleiding {
     font-family: "Avenir LT W01 85 Heavy", serif;
     font-weight: normal;
@@ -104,10 +109,11 @@ h6 {
   .iprox-rich-content h2 {
     font-size: 1.5em !important; }
   .iprox-rich-content h3 {
-    font-size: 1.25em !important;
+    font-size: 1em !important;
     margin: 25px 0 5px !important; }
     .iprox-rich-content h3 .ingeklapt-toggle {
-      font-size: 1em !important; }
+      font-size: 16px !important;
+      line-height: 1 !important; }
   .iprox-rich-content .Calltoaction-blauw a,
   .iprox-rich-content .Calltoaction-groen a,
   .iprox-rich-content .Calltoaction-rood a {
