@@ -174,12 +174,6 @@ h6 {
     font-size: em(24) !important;
   }
 
-/*
-De h3-koppen met class "ingeklapt" moeten font-size 16px krijgen, net als reguliere h3's.
-Ik krijg dit echter niet gewijzigd, ondanks onderstaande aanpassingen aan de
-selectors h3 en .ingeklapt-toggle.
-*/
-
   h3 {
     font-size: em(16) !important;
     margin: 25px 0 5px !important;
